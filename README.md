@@ -7,7 +7,7 @@ Analyze quarterly stock data (ticker, date, prices, and volume) across Excel she
 Each Excel sheet represents one quarter of data; however, the first sheet contains the instructions along with the two buttons to run each macro.
 
 ## Run Macros
-Run the macros by pressing the following buttons found on the ***"Instructions"*** sheet in the excel file:
+Run the macros by pressing the following buttons found on the ***"Instructions"*** sheet in the Excel file:
   - **Re-sort Data** _(macro: resort_data)_: sort the data both alphabetically and chronologically to ensure output tables are computed correctly. Useful when adding new data.
   - **Get Output Tables** _(macro: stock_output_tables)_: generate two tables summarizing and highlighting stock data for each quarter. Both table outputs are found on each sheet.
 
