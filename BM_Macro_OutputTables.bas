@@ -1,4 +1,3 @@
-Attribute VB_Name = "Macro_OutputTables"
 Sub stock_output_tables()
 
 ' -----------------------------------------------
